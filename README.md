@@ -30,6 +30,6 @@ Recommendation Systems are everywhere from Youtube recommending similar videos, 
 
 3.create requirements using "pip install pipreqs"
 
-4. Run command 'pip install -r requirements.txt' to install the dependencies.
+4.Run command 'pip install -r requirements.txt' to install the dependencies.
  
 5.Run the project by using 'streamlit run app.py' from the directory you have stored the file.
