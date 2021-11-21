@@ -33,3 +33,9 @@ Recommendation Systems are everywhere from Youtube recommending similar videos, 
 4.Run command 'pip install -r requirements.txt' to install the dependencies.
  
 5.Run the project by using 'streamlit run app.py' from the directory you have stored the file.
+
+# execution :
+
+View myexecution in  linkdein https://www.linkedin.com/feed/update/urn:li:activity:6868151801544372224/  
+
+Thanks for reading,have any problems .....please ping me.
